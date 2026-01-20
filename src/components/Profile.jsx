@@ -1,21 +1,28 @@
 import { FaGlobeEurope } from "react-icons/fa"
-import pfp from "../img/pfp.jpg"
 
 export default function Profile(){
     return(
         <>
-        <div className=" w-full h-full flex justify-around items-end gap-2 px-1 py-2">
-            <div className="w-40 h-40">
-                <img className="w-full h-full object-cover rounded-2xl" src={pfp} alt="brand picture" />
+        <div className=" w-full h-full flex justify-center items-center gap-2 p-3">
+            <div className="w-[50%] p-3">
+                <h2 className="text-lg font-semibold">
+                    OLUWATOBI
+                </h2>
+                <h1 className="text-3xl font-bold">
+                    OGUNLEDUN
+                </h1>
+                <p className="text-sm">
+                    (he/him)
+                </p>
             </div>
 
             <div className=" w-[50%] h-40 flex flex-col justify-between items-end border-l border-dotted rounded-xl">
                 
                 <h2 className="name w-full font-semibold text-right text-xl border-b pb-1 mt-2">
-                    Evander
+                    Front-End
                 </h2>
                 <h1 className="name text-2xl text-right font-bold">
-                    KOLs <br/> MANAGER
+                    WEB <br/> DEVELOPER
                 </h1>
 
                 <div className="w-full">

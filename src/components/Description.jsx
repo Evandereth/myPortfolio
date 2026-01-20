@@ -1,12 +1,21 @@
 export default function Description(){
     return(
         <>
-        <div className="w-full p-5 lg:h-70">
-            <p className="text-justify text-sm">
-                Your Project deserves organic engagement from authentic audiences and that's exactly what I deliver as a KOL manager. I help crypto projects connect with real communities, build lasting influence and grow meaningful visibility.
+        <div className="w-full">
+
+            <div className="w-full p-2 border rounded-tr-2xl rounded-tl-2xl border-dashed">
+                <h1 className="name text-xl font-bold">
+                    CAREER OBJECTIVE
+                </h1>
+            </div>
+
+            <p className="text-justify px-3 py-5 text-sm">
+                FrontEnd Web Developer with a strong engineering background, focused on building functional, mobile-first web applications. Experienced in Javascript, HTML, CSS and skilled in collaborating with cross-functional teams to deliver high-quality services on time.
+
+
                 <br/>
                 <br/>
-                By designing and executing strategic KOL campaigns, I amplify your project's presence in the crypto space, increase awareness and drive measurable engagement and as a result, bring meaningful volume to the chart.
+                I bring structured problem solving, clean UI logic and production mindset to frontEnd teams.
             </p>
         </div>
         </>
