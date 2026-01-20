@@ -4,7 +4,7 @@ export default function Profile(){
     return(
         <>
         <div className=" w-full h-full flex justify-center items-center gap-2 p-3">
-            <div className="w-[50%] p-3">
+            <div className="w-[50%] p-3nrelative overflow-hidden">
                 <h2 className="text-lg font-semibold">
                     OLUWATOBI
                 </h2>

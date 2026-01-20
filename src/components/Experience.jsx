@@ -23,7 +23,7 @@ export default function Experience(){
             {
                 experience.map((exp)=>(
                     
-                    <div key={exp.id} className="w-full lg:w-full xl:w-110 bg-white/80 border-white border h-80 p-5 rounded-2xl">
+                    <div key={exp.id} className="w-full lg:w-full xl:w-110 bg-white/80 border-white border min-h-90 p-5 rounded-2xl">
 
                         <div  className="flex flex-row justify-between item-center py-3 border-b">
                             <label className="w-[60%]">
