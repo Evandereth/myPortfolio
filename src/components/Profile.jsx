@@ -9,10 +9,10 @@ export default function Profile(){
                     OLUWATOBI
                 </h2>
                 <h1 className="text-3xl font-bold">
-                    OGUNLEDUN
+                    SAMUEL
                 </h1>
                 <p className="text-sm">
-                    (he/him)
+                    Toby - (he/him)
                 </p>
             </div>
 

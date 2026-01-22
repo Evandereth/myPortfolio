@@ -6,7 +6,7 @@ export default function Experience(){
             id:1,
             name: "ERRANDA ",
             title: "FrontEnd - Intern",
-            time: "June 2025",
+            time: "June 2024",
             achievements:["Implemented content  updates and UI changes without breaking existing functionality.", "Diagnosed and fixed UI bugs including layouts and their responsiveness to improve site stability and usability.", "Participated in Production deployment workflows, live updates."]
         },{
             id:2,
